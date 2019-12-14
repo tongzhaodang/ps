@@ -6,3 +6,7 @@
 
 ## 这是设计的一个logo图标
 ![avatar](https://raw.githubusercontent.com/tongzhaodang/ps/master/logo%E6%A1%88%E4%BE%8B/logo%E6%A1%88%E4%BE%8B-%E5%B0%8F%E9%B8%9F.png)
+
+
+## 学生海报作品
+![avatar](https://raw.githubusercontent.com/tongzhaodang/ps/master/海报案例/学生海报.png)
