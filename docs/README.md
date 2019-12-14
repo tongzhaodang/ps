@@ -10,3 +10,8 @@
 
 ## 学生海报作品
 ![avatar](https://raw.githubusercontent.com/tongzhaodang/ps/master/海报案例/学生海报.png)
+
+
+
+##水果海报作品
+![avatar](https://github.com/tongzhaodang/ps/blob/master/%E6%B5%B7%E6%8A%A5%E6%A1%88%E4%BE%8B/%E6%B0%B4%E6%9E%9C%E6%B5%B7%E6%8A%A5.png?raw=true)
